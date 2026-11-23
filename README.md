@@ -1,13 +1,21 @@
 # Hassantuk Command
-### A browser-based agentic safety command centre for connected homes, buildings and smart-home security
+### My interactive vision for the UAE's next-generation, nationwide agentic safety network
 
 **[Explore the live interactive prototype](https://hassantuk-command.vercel.app/)** · **[Read the engineering story on DigDeepTech](https://digdeeptech.com/hassantuk-agentic-safety-command-centre/)**
 
-Hassantuk Command explores a simple question: **what if a safety alarm started an intelligent, evidence-led response instead of just another notification?**
+## What is Hassantuk?
 
-The demonstrator brings together simulated connected-device events, risk assessment, resident contact, contextual history, camera/thermal evidence, drone verification, routing, responder handoff and an AI agent interface in a single command-centre experience.
+**[Hassantuk](https://building.moi.gov.ae/en-US/Hassantuk%20Overview/)** is a UAE Ministry of Interior and Civil Defence connected fire and life-safety initiative. **[Hassantuk for Homes](https://home.moi.gov.ae/en/index.html)** protects residential villas; the buildings programme connects fire and safety systems in commercial and residential properties to alarm receiving and verification centres. Confirmed emergency events are relayed to Civil Defence. This is existing national-scale safety infrastructure, not an invented prototype.
 
-> **Prototype / demonstration only.** This is an independent technical showcase of a *proposed* agentic safety orchestration experience, not an official operational Hassantuk system or announcement. Sensor readings, sites, phone calls, notifications, drones, emergency dispatch, response times and visual media are illustrative or simulated. There is no live connection to emergency authorities. Nothing here should be used to make real-life safety decisions.
+## My vision: from national alarm network to national Safety AI
+
+I'm **Ajay Cyril**. Drawing on years leading connected-safety products and the Hassantuk for Homes roadmap, **I built this interactive demo** to make a possible next chapter tangible: a nationwide, agentic safety and security platform that doesn't just receive alarms, but understands events, gathers evidence, coordinates bounded actions and helps people respond.
+
+The vision brings together **edge intelligence, secure network-to-edge management, an evidence layer, multimodal models, multi-agent orchestration, digital twins and human-authorised response**. It is a personal technical/product thesis, **not an official Hassantuk roadmap or deployed authority capability**.
+
+> **Concept demonstration only.** All physical actions, telemetry, residents, emergency response, drone flights and visual evidence are simulated or illustrative. There is no live operational connection to authorities. Optional model calls are distinguished from deterministic scripted workflows. Do not use this prototype for actual safety decisions.
+
+**[Read my full roadmap and engineering story on DigDeepTech](https://digdeeptech.com/hassantuk-agentic-safety-command-centre/)** · **[Read the same article here on GitHub](ARTICLE.md)**
 
 ## Demo gallery
 
@@ -65,3 +73,8 @@ This repository currently holds the **public showcase and handover documentation
 
 ## Attribution and use
 Portfolio prototype presented by Ajay Cyril on [DigDeepTech](https://digdeeptech.com). Hassantuk, Etisalat and authority names and marks belong to their respective owners. This showcase does not imply their endorsement. Third-party visual media may carry separate rights; do not redistribute media without checking its provenance and licence.
+
+
+## Public sources and attribution
+
+The official [Hassantuk for Homes](https://home.moi.gov.ae/en/index.html), [Hassantuk for Buildings](https://building.moi.gov.ae/en-US/Hassantuk%20Overview/) and [UAE Government fire-safety overview](https://u.ae/en/information-and-services/justice-safety-and-the-law/fire-safety) describe the existing programmes. The future architecture and roadmap in this repository are Ajay Cyril's independent proposal, not an authority announcement. [DigDeepTech](https://digdeeptech.com/hassantuk-agentic-safety-command-centre/) is the canonical editorial version of the article.
